@@ -85,10 +85,11 @@
 
 
 
-<!-- <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilrathod098&show_icons=true&locale=en&layout=compact" alt="sunilrathod098" /></p> -->
 
-<p>&nbsp;
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilrathod098&show_icons=true&locale=en&layout=compact" alt="sunilrathod098" /></p>
+
+<p>&nbsp;.
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilrathod098&show_icons=true&locale=en" alt="GitHub Stats for sunilrathod098" />
 </p>
 
