@@ -32,7 +32,8 @@
 
 <hr/>
 
-<pre>
+<hr>
+
   <h2>Skill Set</h2>
   <h3><strong>Backend:</strong></h3>
   <p>NodeJS, ExpressJS, JavaScript, MongoDB</p>
@@ -46,9 +47,9 @@
   <p>JavaScript, Python, HTML, CSS, Machine Learning Algorithms</p>
   <h3><strong>Data Analyst:</strong></h3>
   <p>Python, Excel, Statistical Analysis, SQL, NumPy, Pandas, Data Visualization, Power BI, Tableau</p>
-</pre>
 
 
+</hr>
 
 
 <h3 align="left">🚀 &nbsp;Connect with me:</h3>
