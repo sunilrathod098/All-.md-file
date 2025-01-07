@@ -80,7 +80,7 @@
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" alt="keras" width="100" height="60"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="100" height="60"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/851/1*H5QKjH0rxbJAiWpNs01_WA.jpeg" alt="seaborn" width="100" height="60"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://studyopedia.com/wp-content/uploads/2022/12/Matplotlib-featured-image-studyopedia.png" alt="matplotlib" width="100" height="60"/> </a>
+  <a href=" https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://studyopedia.com/wp-content/uploads/2022/12/Matplotlib-featured-image-studyopedia.png" alt="matplotlib" width="100" height="60"/> </a>
 </p>
 
 
