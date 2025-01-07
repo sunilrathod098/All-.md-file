@@ -34,14 +34,14 @@
 
 
 <pre>
-    <h3 class="pl-s">MySkillSet = {</h3>
+    <h2 class="pl-s">MySkillSet</h2>
     <h4><span>&nbsp;&nbsp;&nbsp;&nbsp;Backend</span>: <span class="pl-s">[NodeJS, ExpressJS, JavaScript, & MongoDB],</span></h4>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;Frontend</span>: <span class="pl-s">[ReactJS, TailwindCSS, Redux, & Recoil],</span>
-    <span> &nbsp;&nbsp;&nbsp;DataBase</span>: <span class="pl-s">[MongoDB, MySQL],</span>
-    <span> &nbsp;&nbsp;&nbsp;tools</span>: <span class="pl-s">[Git, VsCode, Postman, Apollo Server, Google Cloud & OAuth 2.0 GooglePlayground],</span>
-    <span> &nbsp;&nbsp;&nbsp;languages</span>: <span class="pl-s">[JavaScript, Python, HTML, CSS, &  Machine Learning Algorithms],</span>
-    <span> &nbsp;&nbsp;&nbsp;Data Analyst</span>: <span class="pl-s">[Python, Excel, Statistical analysis, SQL, Numpy, Pandas, & Visualization, Power BI, & Tableau,]</span>
-    <span class="pl-s">};</span>
+    <h4><span>&nbsp;&nbsp;&nbsp;&nbsp;Frontend</span>: <span class="pl-s">[ReactJS, TailwindCSS, Redux, & Recoil],</span></h4>
+    <h4><span> &nbsp;&nbsp;&nbsp;DataBase</span>: <span class="pl-s">[MongoDB, MySQL],</span></h4>
+    <h4><span> &nbsp;&nbsp;&nbsp;tools</span>: <span class="pl-s">[Git, VsCode, Postman, Apollo Server, Google Cloud & OAuth 2.0 GooglePlayground],</span></h4>
+    <h4><span> &nbsp;&nbsp;&nbsp;languages</span>: <span class="pl-s">[JavaScript, Python, HTML, CSS, &  Machine Learning Algorithms],</span></h4>
+    <h4><span> &nbsp;&nbsp;&nbsp;Data Analyst</span>: <span class="pl-s">[Python, Excel, Statistical analysis, SQL, Numpy, Pandas, & Visualization, Power BI, & Tableau,]</span></h4>
+    <span class="pl-s"></span>
 </pre>
 
 <h3 align="left">🚀 &nbsp;Connect with me:</h3>
