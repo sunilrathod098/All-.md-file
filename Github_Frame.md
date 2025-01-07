@@ -32,20 +32,26 @@
 
 <hr/>
 
-
-  <h2>Skill Set</h2>
-  <h3><strong>Backend:</strong></h3>
-  <p>NodeJS, ExpressJS, JavaScript, & MongoDB</p>
-  <h3><strong>Frontend:</strong></h3>
-  <p>ReactJS, TailwindCSS, Redux, & Recoil</p>
-  <h3><strong>Database:</strong></h3>
-  <p>MongoDB, MySQL, SQLite, & SQL</p>
-  <h3><strong>Tools:</strong></h3>
-  <p>Git, VS Code, Postman, Apollo Server, Google Cloud, OAuth 2.0, & Google Developer Playground</p>
-  <h3><strong>Languages:</strong></h3>
-  <p>JavaScript, Python, HTML, CSS, & Machine Learning Algorithms</p>
-  <h3><strong>Data Analyst:</strong></h3>
-  <p>Python, Excel, Statistical Analysis, SQL, NumPy, Pandas, Data Visualization, Power BI, & Tableau</p>
+<div style="font-family: Arial, sans-serif; font-size: 16px; max-width: 600px; margin: 20px auto; border: 1px solid #ddd; padding: 20px; border-radius: 8px; background-color: #f9f9f9;">
+  <h2 style="text-align: center; font-size: 24px; margin-bottom: 20px;">Skill Set</h2>
+  <h3 style="font-size: 20px; margin-bottom: 10px;"><strong>Backend:</strong></h3>
+  <p style="margin: 5px 0;">NodeJS, ExpressJS, JavaScript, & MongoDB</p>
+  
+  <h3 style="font-size: 20px; margin-bottom: 10px;"><strong>Frontend:</strong></h3>
+  <p style="margin: 5px 0;">ReactJS, TailwindCSS, Redux, & Recoil</p>
+  
+  <h3 style="font-size: 20px; margin-bottom: 10px;"><strong>Database:</strong></h3>
+  <p style="margin: 5px 0;">MongoDB, MySQL, SQLite, & SQL</p>
+  
+  <h3 style="font-size: 20px; margin-bottom: 10px;"><strong>Tools:</strong></h3>
+  <p style="margin: 5px 0;">Git, VS Code, Postman, Apollo Server, Google Cloud, OAuth 2.0, & Google Developer Playground</p>
+  
+  <h3 style="font-size: 20px; margin-bottom: 10px;"><strong>Languages:</strong></h3>
+  <p style="margin: 5px 0;">JavaScript, Python, HTML, CSS, & Machine Learning Algorithms</p>
+  
+  <h3 style="font-size: 20px; margin-bottom: 10px;"><strong>Data Analyst:</strong></h3>
+  <p style="margin: 5px 0;">Python, Excel, Statistical Analysis, SQL, NumPy, Pandas, Data Visualization, Power BI, & Tableau</p>
+</div>
 
 
 <hr>
