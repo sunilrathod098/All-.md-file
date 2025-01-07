@@ -63,24 +63,24 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="60" height="60"/> </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="70" height="70"/> </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original-wordmark.svg" alt="vite" width="60" height="60"/> </a>
-  
+
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://mwskwong.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fq95r71b1uue1%2FCZM8YFlF9RPBFqn4IW1km%2F1b490ec8796f11dc4491fdc81fadcccd%2FVercel_OG_Image.png&w=1080&q=75" alt="vercel" width="100" height="60"/> </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.dettifossit.com/courseimages/power-bi-training-in-hyderabad.png" alt="powerbi" width="100" height="60"/> </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://crgroup.com/wp-content/uploads/tableau-blue-logo.png" alt="tableau" width="100" height="60"/> </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_RtuMeDbqn_L7j2ujyuYbPjrULVftKfxhkQ&s" alt="excel" width="100" height="60"/> </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://i.ytimg.com/vi/O3a1Dlja_ug/maxresdefault.jpg" alt="google colab" width="100" height="60"/> </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://i.ytimg.com/vi/O3a1Dlja_ug/maxresdefault.jpg" alt="google colab" width="100" height="70"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="100" height="60"/> </a>
   <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="60" height="60"/> </a>
-  <a href="https://developers.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original-wordmark.svg" alt="google developer" width="40" height="40"/> </a>
-  <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://ssojet.com/blog/navigating-the-world-of-jwt-a-comprehensive-guide/jwt.jpg" alt="jwt" width="40" height="40"/> </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://www.gravitee.io/hubfs/graphql.png" alt="graphql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" alt="keras" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original-wordmark.svg" alt="scikit-learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original-wordmark.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="matplotlib" width="40" height="40"/> </a>
+  <a href="https://developers.google.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*q2cOVRd_90X9-GmTfQy-Ag.png" alt="google developer" width="40" height="40"/> </a>
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://ssojet.com/blog/navigating-the-world-of-jwt-a-comprehensive-guide/jwt.jpg" alt="jwt" width="100" height="60"/> </a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://www.gravitee.io/hubfs/graphql.png" alt="graphql" width="100" height="60"/> </a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="100" height="60"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/D4D12AQE6lQU4Qowvvg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1675497503021?e=2147483647&v=beta&t=2a7Bs5YrJ3Mf4occHx7RRYWqxpJMsC_Tx2iUnbTIV3g" alt="numpy" width="100" height="60"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Pandas-in-Python.jpg" alt="pandas" width="100" height="60"/> </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" alt="keras" width="100" height="60"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/851/1*H5QKjH0rxbJAiWpNs01_WA.jpeg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://studyopedia.com/wp-content/uploads/2022/12/Matplotlib-featured-image-studyopedia.png" alt="matplotlib" width="40" height="40"/> </a>
 </p>
 
 
