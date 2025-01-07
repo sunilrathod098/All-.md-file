@@ -37,7 +37,7 @@
   <h2>Skill Set</h2>
 
     <h3><strong>Backend:</strong></h3>
-    <h4><span>NodeJS, ExpressJS, JavaScript, & MongoDB</span></h4>
+    <h4><p>NodeJS, ExpressJS, JavaScript, & MongoDB</p></h4>
  
     <strong>Frontend:</strong>
     <span>[ReactJS, TailwindCSS, Redux, Recoil]</span>
