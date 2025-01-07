@@ -85,8 +85,8 @@
 
 
 
-<hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilrathod098&show_icons=true&locale=en&layout=compact" alt="sunilrathod098" /></p>
+<!-- <hr/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilrathod098&show_icons=true&locale=en&layout=compact" alt="sunilrathod098" /></p> -->
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilrathod098&show_icons=true&locale=en" alt="GitHub Stats for sunilrathod098" />
@@ -97,7 +97,13 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sunilrathod098" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=sunilrathod098&theme=default&hide_border=true&mode=weekly" alt="GitHub Streak Stats (Alternative)" />
+  </a>
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sunilrathod098" alt="Total Contributions Stats for sunilrathod098" />
 </p>
 
 <p align="center">
