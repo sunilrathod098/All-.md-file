@@ -34,15 +34,33 @@
 
 
 <pre>
-    <h2 class="pl-s">MySkillSet</h2>
-    <h4><span>&nbsp;&nbsp;&nbsp;&nbsp;Backend</span>: <span class="pl-s">[NodeJS, ExpressJS, JavaScript, & MongoDB],</span></h4>
-    <h4><span>&nbsp;&nbsp;&nbsp;&nbsp;Frontend</span>: <span class="pl-s">[ReactJS, TailwindCSS, Redux, & Recoil],</span></h4>
-    <h4><span> &nbsp;&nbsp;&nbsp;DataBase</span>: <span class="pl-s">[MongoDB, MySQL],</span></h4>
-    <h4><span> &nbsp;&nbsp;&nbsp;tools</span>: <span class="pl-s">[Git, VsCode, Postman, Apollo Server, Google Cloud & OAuth 2.0 GooglePlayground],</span></h4>
-    <h4><span> &nbsp;&nbsp;&nbsp;languages</span>: <span class="pl-s">[JavaScript, Python, HTML, CSS, &  Machine Learning Algorithms],</span></h4>
-    <h4><span> &nbsp;&nbsp;&nbsp;Data Analyst</span>: <span class="pl-s">[Python, Excel, Statistical analysis, SQL, Numpy, Pandas, & Visualization, Power BI, & Tableau,]</span></h4>
-    <span class="pl-s"></span>
+  <h2>Skill Set</h2>
+  <h4>
+    <strong>Backend:</strong>
+    <span>[NodeJS, ExpressJS, JavaScript, MongoDB]</span>
+  </h4>
+  <h4>
+    <strong>Frontend:</strong>
+    <span>[ReactJS, TailwindCSS, Redux, Recoil]</span>
+  </h4>
+  <h4>
+    <strong>Database:</strong>
+    <span>[MongoDB, MySQL]</span>
+  </h4>
+  <h4>
+    <strong>Tools:</strong>
+    <span>[Git, VS Code, Postman, Apollo Server, Google Cloud, OAuth 2.0, Google Developer Playground]</span>
+  </h4>
+  <h4>
+    <strong>Languages:</strong>
+    <span>[JavaScript, Python, HTML, CSS, Machine Learning Algorithms]</span>
+  </h4>
+  <h4>
+    <strong>Data Analyst:</strong>
+    <span>[Python, Excel, Statistical Analysis, SQL, NumPy, Pandas, Data Visualization, Power BI, Tableau]</span>
+  </h4>
 </pre>
+
 
 <h3 align="left">🚀 &nbsp;Connect with me:</h3>
 <p align="left">
