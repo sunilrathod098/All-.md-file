@@ -4,10 +4,11 @@
 </p>
 
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=A%20passionate%20Software%20Developer%20and%20Backend%20Developer%20from%20India&reversal=false&section=header&fontSize=30&animation=blink">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=A%20passionate%20Software%20Developer%20and%20Backend%20Developer&reversal=false&section=header&fontSize=30&animation=blink">
 </p>
  
-<img align="right" alt="animated coding img" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
+
+<img align="right" alt="animated coding img" width="250" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
 <hr/>
 
