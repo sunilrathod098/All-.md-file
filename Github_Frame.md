@@ -4,7 +4,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=A%20passionate%20developer%20from%20India&reversal=false&section=header&fontSize=30&animation=blink">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=A%20passionate%20Software%20Developer%20and%20Backend%20Developer%20from%20India&reversal=false&section=header&fontSize=30&animation=blink">
 </p>
  
 <img align="right" alt="animated coding img" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
@@ -35,10 +35,15 @@
 <pre>
     <h4 class="pl-s">MySkillSet = {</h4>
     <mark>&nbsp;&nbsp;&nbsp;&nbsp;Backend</mark>: <span class="pl-s">[NodeJS, ExpressJS, JavaScript, & MongoDB],</span>
+
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Frontend</span>: <span class="pl-s">[ReactJS, TailwindCSS, Redux, & Recoil],</span>
+
     <span> &nbsp;&nbsp;&nbsp;DataBase</span>: <span class="pl-s">[MongoDB, MySQL],</span>
+
     <span> &nbsp;&nbsp;&nbsp;tools</span>: <span class="pl-s">[Git, VsCode, Postman, Apollo Server, Google Cloud & OAuth 2.0 GooglePlayground],</span>
+
     <span> &nbsp;&nbsp;&nbsp;languages</span>: <span class="pl-s">[JavaScript, Python, HTML, CSS, &  Machine Learning Algorithms],</span>
+    
     <span> &nbsp;&nbsp;&nbsp;Data Analyst</span>: <span class="pl-s">[Python, Excel, Statistical analysis, SQL, Numpy, Pandas, & Visualization, Power BI, & Tableau,]</span>
     <span class="pl-s">};</span>
 </pre>
@@ -47,8 +52,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/danavath-sunil-rathod-683853202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="https://www.instagram.com/sunil._.rathod4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://github.com/sunilrathod098" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/806/394/png-clipart-blue-animal-logo-github-icon-github-blue-world-thumbnail.png" alt="instagram" height="30" width="40" /></a>
-  <a href="https://sunilrathod-dashboard-sunilrathod098s-projects.vercel.app/" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/1007/416/png-clipart-briefcase-computer-icons-business-bag-portfolio-blue-text-thumbnail.png" alt="instagram" height="30" width="40" /></a>
+  <a href="https://github.com/sunilrathod098" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/806/394/png-clipart-blue-animal-logo-github-icon-github-blue-world-thumbnail.png" alt="instagram" height="50" width="50" /></a>
+  <a href="https://sunilrathod-dashboard-sunilrathod098s-projects.vercel.app/" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/1007/416/png-clipart-briefcase-computer-icons-business-bag-portfolio-blue-text-thumbnail.png" alt="instagram" height="50" width="50" /></a>
 </p>
 <hr/>
 
