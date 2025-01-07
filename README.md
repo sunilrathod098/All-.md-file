@@ -39,7 +39,7 @@ This is a comprehensive **6-month roadmap** for becoming a full-stack developer,
 
 Here’s a checklist to track your progress week by week:
 
-- [ ] **Week 1**: Complete HTML, CSS, and DOM basics
+- [ x ] **Week 1**: Complete HTML, CSS, and DOM basics
 - [ ] **Week 2**: Master JavaScript fundamentals
 - [ ] **Week 3**: Set up Node.js server
 - [ ] **Week 4**: Learn HTTP Servers & Express
