@@ -32,24 +32,23 @@
 
 <hr/>
 
-<hr>
-
+```
   <h2>Skill Set</h2>
   <h3><strong>Backend:</strong></h3>
-  <p>NodeJS, ExpressJS, JavaScript, MongoDB</p>
+  <p>NodeJS, ExpressJS, JavaScript, & MongoDB</p>
   <h3><strong>Frontend:</strong></h3>
-  <p>ReactJS, TailwindCSS, Redux, Recoil</p>
+  <p>ReactJS, TailwindCSS, Redux, & Recoil</p>
   <h3><strong>Database:</strong></h3>
-  <p>MongoDB, MySQL</p>
+  <p>MongoDB, MySQL, SQLite, & SQL</p>
   <h3><strong>Tools:</strong></h3>
-  <p>Git, VS Code, Postman, Apollo Server, Google Cloud, OAuth 2.0, Google Developer Playground</p>
+  <p>Git, VS Code, Postman, Apollo Server, Google Cloud, OAuth 2.0, & Google Developer Playground</p>
   <h3><strong>Languages:</strong></h3>
-  <p>JavaScript, Python, HTML, CSS, Machine Learning Algorithms</p>
+  <p>JavaScript, Python, HTML, CSS, & Machine Learning Algorithms</p>
   <h3><strong>Data Analyst:</strong></h3>
-  <p>Python, Excel, Statistical Analysis, SQL, NumPy, Pandas, Data Visualization, Power BI, Tableau</p>
+  <p>Python, Excel, Statistical Analysis, SQL, NumPy, Pandas, Data Visualization, Power BI, & Tableau</p>
 
-
-</hr>
+```
+<hr>
 
 
 <h3 align="left">🚀 &nbsp;Connect with me:</h3>
