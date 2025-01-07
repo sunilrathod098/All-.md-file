@@ -76,4 +76,8 @@
 | **Agile Development**    | [Agile Development Basics - Edureka](https://youtu.be/Z9QbYZh1YXY)                                                               |
 |  |
 
-`Project Playlist: https://www.youtube.com/watch?v=RbxHZwFtRT4&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR`
+#### Project Playlist:
+```
+https://www.youtube.com/watch?v=RbxHZwFtRT4&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR
+
+```
