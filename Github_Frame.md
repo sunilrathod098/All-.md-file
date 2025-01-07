@@ -14,19 +14,19 @@
 
 - 🌱 I’m currently learning **MERN Stack**, **MEAN Stack** and **Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available in GitHub [GitHub](https://github.com/sunilrathod098)
+- 👨‍💻 All of my projects are available in GitHub [Projects.](https://github.com/sunilrathod098)
 
-- 🌐 My portfolio: [Portfolio](https://sunilrathod-dashboard-sunilrathod098s-projects.vercel.app/)
+- 🌐 My portfolio: [Portfolio.](https://sunilrathod-dashboard-sunilrathod098s-projects.vercel.app/)
 
-- 🌐 My GitHub: [Github](https://github.com/sunilrathod098)
+- 🌐 My GitHub: [Github.](https://github.com/sunilrathod098)
 
-- 🌐 My LinkedIn: [LinkedIn](https://www.linkedin.com/in/danavath-sunil-rathod-683853202/)
+- 🌐 My LinkedIn: [LinkedIn.](https://www.linkedin.com/in/danavath-sunil-rathod-683853202/)
 
-- 💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDB, MySQL, JavaScript, HTML/CSS, Data Analyst, Python, Python Libraries & ML**
+- 💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDB, MySQL, JavaScript, HTML/CSS, Data Analyst, Python, Python Libraries & ML.**
 
-- 📫 How to reach me: **sunilrathod098@gmail.com**
+- 📫 How to reach me: **sunilrathod098@gmail.com**.
 
-- 📞 Contact Number: **+91 9022080237**
+- 📞 Contact Number: **+91 9022080237**.
 
 - ⚡ Fun fact: **I have completed 13+ projects, speak four languages fluently, participated in 1 hackathon, and completed 1 coding bootcamp. I have written 30,000+ lines of code and consumed 200+ cups of coffee during coding marathons.**
 
