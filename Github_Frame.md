@@ -57,8 +57,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-  <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*3_LYTSCmudSVCU5Tw7Ydfw.png" alt="apollo" width="60" height="60"/> </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://learndirectus.com/content/images/size/w1140/2022/03/postman.png" alt="postman" width="60" height="60"/> </a>
+  <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrZSlGXznxfGCOkrnqudGW1QX0CLSdLlQ3jA&s" alt="apollo" width="60" height="60"/> </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://learndirectus.com/content/images/size/w1140/2022/03/postman.png" alt="postman" width="100" height="60"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="60" height="60"/> </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="70" height="70"/> </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original-wordmark.svg" alt="vite" width="60" height="60"/> </a>
