@@ -32,7 +32,7 @@
 
 <hr/>
 
-```
+
   <h2>Skill Set</h2>
   <h3><strong>Backend:</strong></h3>
   <p>NodeJS, ExpressJS, JavaScript, & MongoDB</p>
@@ -47,7 +47,7 @@
   <h3><strong>Data Analyst:</strong></h3>
   <p>Python, Excel, Statistical Analysis, SQL, NumPy, Pandas, Data Visualization, Power BI, & Tableau</p>
 
-```
+
 <hr>
 
 
