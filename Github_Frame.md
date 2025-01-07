@@ -7,7 +7,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=A%20passionate%20developer%20from%20India&reversal=false&section=header&fontSize=30&animation=blink">
 </p>
  
-<img align="right" alt="animated coding img" width="300" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
+<img align="right" alt="animated coding img" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
 <hr/>
 
@@ -17,32 +17,38 @@
 
 - 🌐 My portfolio: [Portfolio](https://sunilrathod-dashboard-sunilrathod098s-projects.vercel.app/)
 
-- 💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDB, MySQL, JavaScript and Python**
+- 🌐 My GitHub: [Github](https://github.com/sunilrathod098)
+
+- 🌐 My LinkedIn: [LinkedIn](https://www.linkedin.com/in/danavath-sunil-rathod-683853202/)
+
+- 💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDB, MySQL, JavaScript, HTML/CSS, Data Analyst, Python, Python Libraries & ML**
 
 - 📫 How to reach me: **sunilrathod098@gmail.com**
 
 - 📞 Contact Number: **+91 9022080237**
 
-- ⚡ Fun fact: *I have completed 13+ projects, speak four languages fluently, participated in 1 hackathon, and completed 1 coding bootcamp. I have written 30,000+ lines of code and consumed 200+ cups of coffee during coding marathons.*
+- ⚡ Fun fact: **I have completed 13+ projects, speak four languages fluently, participated in 1 hackathon, and completed 1 coding bootcamp. I have written 30,000+ lines of code and consumed 200+ cups of coffee during coding marathons.**
 
 <hr/>
 
 
 <pre>
     <h4 class="pl-s">MySkillSet = {</h4>
-    <mark>&nbsp;&nbsp;&nbsp;&nbsp;frontend</mark>: <span class="pl-s">[ReactJS, TailwindCSS, Redux, & Recoil],</span>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;backend</span>: <span class="pl-s">[NodeJS, ExpressJS],</span>
+    <mark>&nbsp;&nbsp;&nbsp;&nbsp;Backend</mark>: <span class="pl-s">[NodeJS, ExpressJS, JavaScript, & MongoDB],</span>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;Frontend</span>: <span class="pl-s">[ReactJS, TailwindCSS, Redux, & Recoil],</span>
     <span> &nbsp;&nbsp;&nbsp;DataBase</span>: <span class="pl-s">[MongoDB, MySQL],</span>
     <span> &nbsp;&nbsp;&nbsp;tools</span>: <span class="pl-s">[Git, VsCode, Postman, Apollo Server, Google Cloud & OAuth 2.0 GooglePlayground],</span>
     <span> &nbsp;&nbsp;&nbsp;languages</span>: <span class="pl-s">[JavaScript, Python, HTML, CSS, &  Machine Learning Algorithms],</span>
-    <span> &nbsp;&nbsp;&nbsp;Data Analyst</span>: <span class="pl-s">[Python, Excel, Statistical analysis, SQL, Numpy, Pandas, & Visualization, Power BI, & Tableau,],</span>
+    <span> &nbsp;&nbsp;&nbsp;Data Analyst</span>: <span class="pl-s">[Python, Excel, Statistical analysis, SQL, Numpy, Pandas, & Visualization, Power BI, & Tableau,]</span>
     <span class="pl-s">};</span>
 </pre>
 
 <h3 align="left">🚀 &nbsp;Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sunilrathod098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href=https://www.instagram.com/sunil._.rathod4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/danavath-sunil-rathod-683853202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/sunil._.rathod4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://github.com/sunilrathod098" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" alt="instagram" height="30" width="40" /></a>
+  <a href="https://sunilrathod-dashboard-sunilrathod098s-projects.vercel.app/" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/1007/416/png-clipart-briefcase-computer-icons-business-bag-portfolio-blue-text-thumbnail.png" alt="instagram" height="30" width="40" /></a>
 </p>
 <hr/>
 
@@ -83,16 +89,14 @@
   <a href=" https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://studyopedia.com/wp-content/uploads/2022/12/Matplotlib-featured-image-studyopedia.png" alt="matplotlib" width="100" height="60"/> </a>
 </p>
 
-
+<br>
+<br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilrathod098&show_icons=true&locale=en&layout=compact" alt="sunilrathod098" /></p>
 
 <p>&nbsp;.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilrathod098&show_icons=true&locale=en" alt="GitHub Stats for sunilrathod098" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sunilrathod098" alt="Total Contributions Stats for sunilrathod098" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=800&color=gradient&reversal=false&section=footer" alt="Footer Wave" />
