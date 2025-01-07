@@ -78,9 +78,9 @@
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/D4D12AQE6lQU4Qowvvg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1675497503021?e=2147483647&v=beta&t=2a7Bs5YrJ3Mf4occHx7RRYWqxpJMsC_Tx2iUnbTIV3g" alt="numpy" width="100" height="60"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Pandas-in-Python.jpg" alt="pandas" width="100" height="60"/> </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" alt="keras" width="100" height="60"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/851/1*H5QKjH0rxbJAiWpNs01_WA.jpeg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://studyopedia.com/wp-content/uploads/2022/12/Matplotlib-featured-image-studyopedia.png" alt="matplotlib" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="100" height="60"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/851/1*H5QKjH0rxbJAiWpNs01_WA.jpeg" alt="seaborn" width="100" height="60"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://studyopedia.com/wp-content/uploads/2022/12/Matplotlib-featured-image-studyopedia.png" alt="matplotlib" width="100" height="60"/> </a>
 </p>
 
 
