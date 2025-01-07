@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I'm%20Sunil%20Rathod">
 </p>
@@ -8,13 +8,13 @@
 </p>
  
 
-<img align="right" alt="animated coding img" width="250" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
+<img align="right" alt="animated coding img" width="300" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
 <hr/>
 
 - 🌱 I’m currently learning **MERN Stack**, **MEAN Stack** and **Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available at GitHub [GIThUB](https://github.com/sunilrathod098)
+- 👨‍💻 All of my projects are available in GitHub [GitHub](https://github.com/sunilrathod098)
 
 - 🌐 My portfolio: [Portfolio](https://sunilrathod-dashboard-sunilrathod098s-projects.vercel.app/)
 
@@ -35,7 +35,7 @@
 
 <pre>
     <h4 class="pl-s">MySkillSet = {</h4>
-    <mark>&nbsp;&nbsp;&nbsp;&nbsp;Backend</mark>: <span class="pl-s">[NodeJS, ExpressJS, JavaScript, & MongoDB],</span>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;Backend</span>: <span class="pl-s">[NodeJS, ExpressJS, JavaScript, & MongoDB],</span>
 
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Frontend</span>: <span class="pl-s">[ReactJS, TailwindCSS, Redux, & Recoil],</span>
 
