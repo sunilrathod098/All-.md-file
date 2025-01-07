@@ -47,7 +47,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/danavath-sunil-rathod-683853202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="https://www.instagram.com/sunil._.rathod4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://github.com/sunilrathod098" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" alt="instagram" height="30" width="40" /></a>
+  <a href="https://github.com/sunilrathod098" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/911/648/png-clipart-github-repository-computer-icons-logo-github-blue-git.png" alt="instagram" height="30" width="40" /></a>
   <a href="https://sunilrathod-dashboard-sunilrathod098s-projects.vercel.app/" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/1007/416/png-clipart-briefcase-computer-icons-business-bag-portfolio-blue-text-thumbnail.png" alt="instagram" height="30" width="40" /></a>
 </p>
 <hr/>
