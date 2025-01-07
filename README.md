@@ -80,3 +80,18 @@ Here’s a list of **10 project ideas** aligned with the roadmap, along with a g
 | **Chat App**                  | Real-time chat app using Websockets with user authentication.                                    | 1. Set up Websockets on the backend. <br>2. Implement chat UI in React.<br>3. Add JWT authentication.                   | Node.js, Websockets, React            |
 | **E-Commerce Store**          | A store with product listings, a cart system, and checkout functionality.                        | 1. Design product APIs. <br>2. Add cart logic in React.<br>3. Integrate Razorpay/Stripe for payments.                   | React, Node.js, MongoDB, Payment APIs |
 | **Portfolio Website**         | A personal portfolio to showcase projects and skills.                                            | 1. Use Next.js for SSR.<br>2. Style with Tailwind CSS.<br
+| **Expense Tracker**           | A tool to track income and expenses with visualizations.                                         | 1. Create React components for transactions.<br>2. Store data in MongoDB.<br>3. Visualize data using Chart.js.          | React, MongoDB, Chart.js              |
+| **Online Classroom Platform** | A platform for faculty to share documents, conduct live sessions, and create assignments.        | 1. Build backend with Express.<br>2. Implement user roles.<br>3. Add WebRTC for live classes.                           | Node.js, WebRTC, React                |
+| **Video Conferencing App**    | A basic conferencing app using WebRTC for real-time communication.                               | 1. Set up WebRTC APIs.<br>2. Build React frontend.<br>3. Manage connections using signaling servers.                    | WebRTC, React                         |
+| **Capstone E-Commerce App**   | A fully-featured app with real-time notifications, authentication, and performance optimization. | 1. Plan HLD and LLD.<br>2. Develop backend APIs.<br>3. Add Websocket-based notifications.<br>4. Deploy on the cloud.    | Node.js, React, MongoDB, Websockets   |
+
+---
+
+
+### Building Projects
+
+- Projects should progress in complexity over time.
+- Integrate both frontend and backend technologies, ensuring full-stack skills development.
+- Deploy apps to real cloud environments to gain real-world experience.
+
+Let me know if you need more details or guides for specific projects!
