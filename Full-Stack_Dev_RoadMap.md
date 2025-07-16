@@ -39,12 +39,12 @@ This is a comprehensive **6-month roadmap** for becoming a full-stack developer,
 
 Here’s a checklist to track your progress week by week:
 
-- [ ] **Week 1**: Complete HTML, CSS, and DOM basics
+- [x] **Week 1**: Complete HTML, CSS, and DOM basics
 - [ ] **Week 2**: Master JavaScript fundamentals
-- [ ] **Week 3**: Set up Node.js server
-- [ ] **Week 4**: Learn HTTP Servers & Express
-- [ ] **Week 5**: Integrate NoSQL Databases (MongoDB)
-- [ ] **Week 6**: Learn SQL Basics
+- [x] **Week 3**: Set up Node.js server
+- [x] **Week 4**: Learn HTTP Servers & Express
+- [x] **Week 5**: Integrate NoSQL Databases (MongoDB)
+- [x] **Week 6**: Learn SQL Basics
 - [ ] **Week 7**: Use ORMs (Sequelize/Mongoose)
 - [ ] **Week 8**: Master React Basics
 - [ ] **Week 9**: Style React Apps
