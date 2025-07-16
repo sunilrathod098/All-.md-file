@@ -10,15 +10,15 @@ Become a **Cloud DevOps Engineer** and **MERN Stack Developer** with solid under
 
 ### ✅ Week 1-2:
 
-1. [ * ] Learn **Linux Basics**
+1. [ X ] Learn **Linux Basics**
 
    * Terminal Commands (cd, ls, mkdir, rm, etc.)
    * Bash Scripting (loops, conditionals, scripts)
-2. [ ] Install and practice **Git & GitHub**
+2. [ X ] Install and practice **Git & GitHub**
 
    * Git Workflow (clone, add, commit, push, pull)
    * Branching, Merging, Pull Requests
-3. [ ] Setup your GitHub profile and push your first **README.md**
+3. [ X ] Setup your GitHub profile and push your first **README.md**
 
 ### ✅ Week 3-4:
 
